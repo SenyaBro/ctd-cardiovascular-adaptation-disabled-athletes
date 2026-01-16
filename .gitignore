@@ -1,0 +1,16 @@
+﻿# Virtual environments
+venv/
+.venv/
+
+# Data (не хостим)
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS junk
+Thumbs.db
+.DS_Store

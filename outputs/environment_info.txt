@@ -1,0 +1,10 @@
+Environment information for reproducibility
+==========================================
+
+Python version: 3.13.3 (tags/v3.13.3:6280bb5, Apr  8 2025, 14:47:33) [MSC v.1943 64 bit (AMD64)]
+pandas version: 2.2.3
+numpy version: 2.2.6
+scipy version: 1.16.0
+statsmodels version: 0.14.5
+matplotlib version: 3.10.3
+seaborn version: 0.13.2

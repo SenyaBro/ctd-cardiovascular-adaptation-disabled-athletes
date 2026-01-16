@@ -1,0 +1,5 @@
+grouping,metric,test,p_value,statistic,k_groups,n_total,assumption_normal,assumption_equal_var,effect_type,effect_size
+Sport,VO2max,One-way ANOVA,0.0006298851717173931,6.239627039896865,4,104,True,True,eta_squared,0.15767400217340743
+Sport,QTc,Kruskal–Wallis,2.253404735784995e-10,53.84679736112217,6,340,False,False,epsilon_squared,0.14624789629078494
+Nosology,VO2max,One-way ANOVA,0.01028308995270022,4.751895581545261,3,126,True,True,eta_squared,0.07172467353324939
+Nosology,QTc,Kruskal–Wallis,0.02185243788168306,9.643532158757072,4,383,False,False,epsilon_squared,0.01752910859830362
