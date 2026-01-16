@@ -31,6 +31,12 @@ The project emphasizes:
 - reproducibility of the analysis without hosting raw patient-level data.
 
 ---
+## Key Takeaways
+- Designed a reproducible statistical analysis pipeline for medical data
+- Performed hypothesis-driven analysis with clinical interpretability
+- Carefully handled sensitive data without publishing raw datasets
+- Produced analysis-ready artifacts (tables and figures) for research use
+
 
 ## 📊 Data | Данные
 
